@@ -32,4 +32,4 @@
 
 17. Als developer wil ik weten hoeveel btw elk land betaald zodat ik de correcte prijs kan berekenen.		Danny
 
-18. Als developer wil ik allen userrstory's bij elkaar mergen zodat het project in elkaar kan zetten. iedereen
+18. Als developer wil ik allen userrstory's bij elkaar mergen zodat het project in elkaar kan zetten.   iedereen
