@@ -1,0 +1,33 @@
+1. Als developer wil ik een class die alle landen met btw zodat ik kan zien van elk land wat de btw is.		Daniel
+
+2. Als gebruiker wil ik een invoerveld voor het aantal items zodat het makkelijk te gebruiken is.		Danny
+
+3. Als gebruiker wil ik een invoerveld voor de prijs per item zodat het  makkelijk te gebruiken is.		Danny
+
+4. Als gebruiker wil ik een invoerveld voor de landcode zodat het makkelijk te gebruiken is.			Danny
+
+5. Als developer wil ik een bereken knop om een functie uit te voeren.						Daniel				
+
+6. Als developer wil ik een functie die de prijs - korting berekent.						Armin
+
+7. Als developer wil ik een functie die het bedrag inclusief de btw berekent.					Armin
+`
+8. Als developer wil ik een functie die het bedrag - korting inclusief de btw berekent.				Armin
+
+9. Als developer wil de applicatie kunnen testen om te kijken als hij werkt.					Iedereen
+
+10. Als developer wil ik een script die alle items en prijzen in een array zet.					Daniel
+
+11. Als developer wil ik opmaak zodat de applicatie er mooi uit ziet.						Phineas
+
+12. Als developer wil ik een github repostory zodat elke developer bij de code kan.				Niels
+
+13. Als gebruiker wil een mooie font zodat de applicatie er mooi uit ziet.					Phineas
+
+14. Als gebruiker wil ik sound effects zodat ik feedback krijg.							Armin
+
+15. Als gebruiker wil ik kunnen afrekenen zodat ik kan betalen.							Daniel			
+
+16. Als gebruiker wil ik een background zodat het er mooi uit ziet.						Niels
+
+17. Als developer wil ik weten hoeveel btw elk land betaald zodat ik de correcte prijs kan berekenen.		Danny
