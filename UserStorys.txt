@@ -31,3 +31,5 @@
 16. Als gebruiker wil ik een background zodat het er mooi uit ziet.						Niels
 
 17. Als developer wil ik weten hoeveel btw elk land betaald zodat ik de correcte prijs kan berekenen.		Danny
+
+18. Als developer wil ik allen userstory's bij elkaar mergen zodat ik het project in elkaar kan zetten.   iedereen
