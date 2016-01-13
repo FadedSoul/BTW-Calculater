@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CalculatePrice : MonoBehaviour
+public class BerekenKorting : MonoBehaviour
 {
     public float Korting = 10;
     public float oudePrijs = 100;
@@ -10,10 +10,10 @@ public class CalculatePrice : MonoBehaviour
 
 	void Start ()
     {
-        BerekenKorting();
+        BerekenNieuwePrijs();
 	}
 
-    void BerekenKorting()
+    void BerekenNieuwePrijs()
     {
         wegTeHalenKorting = oudePrijs / Korting;
         nieuwePrijs = oudePrijs - wegTeHalenKorting;
